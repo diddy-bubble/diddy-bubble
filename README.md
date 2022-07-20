@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diddy-bubble
 - 👀 I’m interested in MOBILE PROGRAMMATION, PYTHON
-- 🌱 I’m currently learning JAVA,KOTLIN, JAVASCRIPT, PYTHON
+- 🌱 I’m currently learning C#, PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me laurencenakounou@gmail.com
 
