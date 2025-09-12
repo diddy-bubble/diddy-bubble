@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diddy-bubble
 - 👀 I’m interested in BIG DATA, A.I., CLOUD (Azure & AWS)
-- 🌱 I’m currently learning PYTHON and Cloud
+- 🌱 I’m currently learning Python and Cloud (Microsoft Azure)
 - 💞️ I’m looking to collaborate on Big Data & IA projects
 - 📫 How to reach me naknglo@gmail.com
 
